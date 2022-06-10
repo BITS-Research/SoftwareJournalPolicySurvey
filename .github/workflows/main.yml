@@ -1,0 +1,13 @@
+- name: Dataverse Uploader Action
+  # You may pin to the exact commit or the version.
+  # uses: IQSS/dataverse-uploader@a91124cbea5f0c5913ca193d5945fc374e71e0eb
+  uses: IQSS/dataverse-uploader@v1.1
+  with:
+    # dataverse personal access token
+    DATAVERSE_TOKEN: c4961bbd-44f5-4b80-b629-40f0dc87e4f6
+    # dataverse server
+    DATAVERSE_SERVER: https://dataverse.harvard.edu/dataverse/nmweber/
+    # existing dataverse dataset doi
+    DATAVERSE_DATASET_DOI: doi:10.7910/DVN/DGKBLF
+    # upload only from specific dirs
+    GITHUB_DIR: # optional
