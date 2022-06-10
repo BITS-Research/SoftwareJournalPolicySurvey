@@ -4,7 +4,7 @@
   uses: IQSS/dataverse-uploader@v1.1
   with:
     # dataverse personal access token
-    DATAVERSE_TOKEN: c4961bbd-44f5-4b80-b629-40f0dc87e4f6
+    DATAVERSE_TOKEN: 
     # dataverse server
     DATAVERSE_SERVER: https://dataverse.harvard.edu/dataverse/nmweber/
     # existing dataverse dataset doi
