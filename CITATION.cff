@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+authors:
+  - family-names: Weber
+    given-names: Nic
+    orcid: https://orcid.org/0000-0002-6008-3763
+  - family-names: Riso
+    given-names: Anna
+  - family-names: Brown
+    given-names: Eva
+title: "Research Software Survey"
+doi: 0.7910/DVN/DGKBLF
+date-released: 2022-06-01
